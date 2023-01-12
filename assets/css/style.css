@@ -1,0 +1,41 @@
+/*google fonts links*/
+/*@import url('https://fonts.googleapis.com/css2?family=The+Nautigal:wght@400;700&display=swap');
+*/
+/**{*/
+	marg/*in: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: 'The Nautigal', cursive,sans-serif;
+
+}
+h1{
+	font-size: 44px;
+	color: #fede2e;
+	text-align: center;
+}
+
+.img{
+	display: flex;
+	text-align: center;
+	justify-content: center;
+}
+
+.circle{
+	width: 234px;
+	height: 234px;
+	border-radius: 50%;
+	color: #d2e2f4;
+}
+
+
+/*f5 normal refresh
+ctrl + f5 forcefully refresh */
+
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: navy;
+  margin-left: 20px;
+}

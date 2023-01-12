@@ -1,0 +1,118 @@
+/*elementry sector
+h1{
+	color: blue;
+}
+
+classs sector
+.red{
+	color: red;
+	font-size: 20px;
+	text-align: top;
+}
+id sector
+#sandeep{
+	color: rgb(230, 34, 230);
+	background-color: rgba(230, 200, 39, 1.5);
+
+}
+gruoping sdctor
+h1,.red,#sandeep{
+	background-color: green;
+	color: red;
+	font-family:sans-serif;
+	text-transform: uppercase;
+	text-decoration-style:unset;
+}
+
+#container,#div1,#div2,#div3{
+	height: 50%;
+	width: 50%;
+	display: flex;
+	flex-direction: row;
+}
+ #container{ 
+ 	
+ 	height: 500px;
+ 	width: 500px;
+ }
+*/
+/* #div1{
+ 	background-color: palegoldenrod;
+ 	flex-grow: 4;
+ 	flex-shrink: 4;
+ 	
+ }
+ #div2{
+ 	background-color: red;
+ 	flex-grow: 1;
+ 	flex-shrink: 1;*/
+/* }
+ @keyframes changeShape{
+
+                from{
+                	border-radius: 0%;
+
+                }
+
+                to{
+                	border-radius: 50%;
+                }
+
+
+ }
+
+
+ #div3{
+ 	background-color: aquamarine;
+ 	height: 200px;
+ 	width: 200px;
+    top: 40%;
+    left: 40%;
+    position: absolute;
+ 	animation: changeShape 1s ease-in-out 4 alternate;
+ 	transform: scale(1.5,0.4);*/
+ 	/*transform: translate(10px);*/
+ 	/*transform: rotate(120deg);*/
+ 
+/* }
+#div3{
+    background-color: darkred;
+ 	height: 200px;
+ 	width: 200px;
+    top: 40%;
+    left: 40%;
+    position: absolute;
+ 	animation: changeShape 1s ease-in-out 4 alternate;
+
+}
+ #div4{
+ 	background-color: aquamarine;
+ 	height: 100px;
+ 	width: 100px;
+ 	border: 4px solid red;
+ 	justify-items: right;letter-spacing: 1px;
+ }*/
+ .cube{
+ 	
+ 	height: 200px;
+ 	width: 200px; 	
+ 	position: relative;
+ 	margin: 100%;
+ }
+ .face{
+
+ 	height: 100px;
+ 	width: 100px;
+ 	top: 20%;
+ 	left: 20%;
+ 	position: absolute;
+ 	transform-style: preserve-3d;
+ 	transition: all 1s;
+ }
+ .one{
+ 	background-color:skyblue;
+ }
+ /*.one:hoven{
+ 	transform: rotateX(45deg) rotateY(45deg);
+
+ }*/
