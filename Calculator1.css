@@ -1,0 +1,65 @@
+ @import url('https://fonts.googleapis.com/css2?family=Bacasime+Antique&display=swap');
+
+/**{
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+	font-family: 'Poppins',sans-serif;
+}
+body{
+	height: 100%;
+	width: 100vh;
+	justify-content: center;
+	display: flex;
+	
+	align-items: center;
+	background: linear-gradient(45deg,#0a0a0a, #3a4452);
+	
+
+}*/
+.Calculator{
+	    height: 380px;
+	    width: 400px;
+	    margin: auto;
+	    background-color: #768271;
+        border: 1px solid black;
+        padding: 10px;
+         border-radius: 10px;
+         align-content: center;
+         box-shadow:-webkit-box-shadow: 10px 10px 108px 9px rgba(0,0,0,0.75);
+-moz-box-shadow: 10px 10px 108px 9px rgba(0,0,0,0.75);
+box-shadow: 10px 10px 108px 9px rgba(0,0,0,0.75);
+
+
+  }
+  .display-box{
+  	font-weight: bolder;
+  	font-size: larger;
+  	background-color: #e6e3d9;
+  	height: 65%;
+  	border: 1px solid black;
+  	border-radius: 5px;
+  	width: 98%;
+  	font-family: "orbitron", sans-serif ;
+  }
+#btn{
+	/*height: 50%;
+	width: 80%;*/
+	background-color: #bf198e;
+}
+input[type=button]{
+	font-family: "orbitron",sans-serif;
+	background-color: #1d4ef0;
+	height: 70%;
+	width: 100%;
+	color: white;
+	outline: none;
+	border: 1px solid white;
+	border-radius: 5px;
+	font-size: larger;
+	font-weight: bolder;
+}
+input:active[type=button]{
+	background-color: #e5e5e5;
+	box-shadow: inset 0px 0px 5px #c1c1c1;
+}

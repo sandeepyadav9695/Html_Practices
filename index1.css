@@ -1,0 +1,18 @@
+body{
+	background-color: aqua;
+	padding: 150px;
+}
+.container{
+	height: 130px;
+	width: 300px;
+	border: 2px groove greenyellow;
+	border-radius: 30px;
+}
+h1{
+	font-style: italic;
+	color: rgb(3, 49, 54);
+}
+#clock{
+	font-size: 30px;
+	font-family:'Time New Roman', Time,serif;
+}
